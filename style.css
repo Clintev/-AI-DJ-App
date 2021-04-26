@@ -1,0 +1,58 @@
+.heading
+{
+    font-size: 50px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bold;
+}
+.note
+{
+    font-size: 25px;
+    color: aqua;
+    font-weight: 100;
+}
+body
+{
+    background-size: cover;
+}
+h3
+{
+    font-family: Agency Fb;
+    font-weight: 100;
+}
+.div_speed
+{
+    float: left;
+    width: 20px;
+}
+.div_speed_img
+{
+    width: 200px;
+    height: 120px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+    color: slateblue;
+    font-weight: 100;
+}.div_volume
+{
+    float: right;
+    width: 20px;
+}
+.div_volume_img
+{
+    width: 200px;
+    height: 120px;
+    border-radius: 100px;
+    
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+    color: slateblue;
+    font-weight: 100;
+}
